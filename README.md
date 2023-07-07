@@ -1,2 +1,2 @@
-# Diabetes-Mellites-Prediction-using-Machine-Learning.
-machine learning model to predict diabetes using svm, svm naive ,perceptron model
+# DiaCare—A Diabetes Mellitus Prediction Model.
+A Support Vector Machine based machine learning model to predict diabetes.
